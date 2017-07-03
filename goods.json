@@ -1,0 +1,10 @@
+{
+    "goods": [
+        { "price": "16.70", "title": "好丽友盒装300g", "img": "https://img.alicdn.com/imgextra/i2/TB1sOUaMpXXXXcCXXXXXXXXXXXX_!!0-item_pic.jpg_430x430q90.jpg" },
+        { "price": "6.99", "title": "有友山椒泡凤爪 ", "img": "https://img.alicdn.com/imgextra/i3/725677994/TB20IOzaxvC11Bjy1zdXXXPcVXa_!!725677994.jpg_430x430q90.jpg"},
+        { "price": "29.90", "title": "德芙巧克力", "img": "https://img.alicdn.com/imgextra/i1/1893286335/TB2rIGomwJkpuFjSszcXXXfsFXa_!!1893286335.jpg_430x430q90.jpg"},
+        { "price": "26.80", "title": "马来西亚进口EGO", "img": "https://img.alicdn.com/imgextra/i1/201702942/TB2TgAvpFXXXXbcXpXXXXXXXXXX_!!201702942.jpg_430x430q90.jpg"},
+        { "price": "9.80", "title": "日本进口嘉娜宝Kracie", "img": "https://img.alicdn.com/imgextra/i2/1014978183/TB238sXfFXXXXamXXXXXXXXXXXX_!!1014978183.jpg_430x430q90.jpg"},
+        { "price": "19.80", "title": "甜甜乐星球杯巧克力", "img": "https://img.alicdn.com/imgextra/i1/1799996758/TB284CaoxdkpuFjy0FbXXaNnpXa_!!1799996758.jpg_430x430q90.jpg" }
+    ]
+}
